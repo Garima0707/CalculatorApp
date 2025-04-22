@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">calculator2</string>
+    <string name="error_message">"Enter Valid Values" </string>
+</resources>
